@@ -5,6 +5,6 @@ These slides were used for an expository seminar at IIT Bombay on 09-11-2020. Yo
 
  You can can run these slides from the link below. The final result contains lots of visualizations and a live numerical simulation to explain the Siegel mean value theorem!
 
-  nihargargava.com/siegel_seminar/
+    https://nihargargava.com/siegel_seminar/
 
  
